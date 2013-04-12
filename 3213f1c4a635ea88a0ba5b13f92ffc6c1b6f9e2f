@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAdX//7ck\u003d",
+        "filename": "rootdir/init.espresso.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 5728
+      },
+      "writtenOn": "2013-04-12T19:18:48Z",
+      "side": 1,
+      "message": "This line can be removed, pvrsrvinit auto detect GPU type and will load the appropriate kernel module from /system/lib/modules/",
+      "revId": "3213f1c4a635ea88a0ba5b13f92ffc6c1b6f9e2f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
