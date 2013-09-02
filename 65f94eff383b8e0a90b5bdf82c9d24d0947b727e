@@ -2,6 +2,23 @@
   "comments": [
     {
       "key": {
+        "uuid": "1adf8d57_6b6861bb",
+        "filename": "libsensors/Android.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 523
+      },
+      "writtenOn": "2013-09-02T19:58:00Z",
+      "side": 1,
+      "message": "LOCAL_CFLAGS +\u003d -DTARGET_DEVICE_P3100\n\n\nis missing here.",
+      "revId": "65f94eff383b8e0a90b5bdf82c9d24d0947b727e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3ae2911b_6123dc06",
         "filename": "libsensors/input.c",
         "patchSetId": 1
