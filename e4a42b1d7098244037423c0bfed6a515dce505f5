@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a5ae5dd_8e561f05",
+        "filename": "p31xx-common.mk",
+        "patchSetId": 5
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2014-01-05T08:41:14Z",
+      "side": 1,
+      "message": "Copy values from Nexus7 to fix \"blurred\" drawables in apps like Apollo or DSPManager.\n\nPRODUCT_AAPT_CONFIG :\u003d normal large tvdpi hdpi\n\nPRODUCT_AAPT_PREF_CONFIG :\u003d tvdpi\n\nNext line, \"PRODUCT_LOCALES\" should be removed as it seems to have no effect at all.",
+      "revId": "e4a42b1d7098244037423c0bfed6a515dce505f5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
