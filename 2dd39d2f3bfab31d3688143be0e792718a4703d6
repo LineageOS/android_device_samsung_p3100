@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7af24918_fe2456b0",
+        "filename": "dock_keyboard/Android.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 8964
+      },
+      "writtenOn": "2014-04-12T23:32:47Z",
+      "side": 1,
+      "message": "What am i seeing here? Whitespace ;)",
+      "revId": "2dd39d2f3bfab31d3688143be0e792718a4703d6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
