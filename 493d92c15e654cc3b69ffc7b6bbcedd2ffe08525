@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a18252c_88487a5d",
+        "filename": "common-overlay/packages/apps/Settings/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 8964
+      },
+      "writtenOn": "2014-10-29T10:38:59Z",
+      "side": 0,
+      "message": "No used anymore",
+      "revId": "493d92c15e654cc3b69ffc7b6bbcedd2ffe08525",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a18252c_e873eeb2",
+        "filename": "common-overlay/packages/apps/Settings/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 8964
+      },
+      "writtenOn": "2014-10-29T10:38:59Z",
+      "side": 0,
+      "message": "Set on bools.xml https://github.com/CyanogenMod/android_packages_apps_Settings/blob/cm-11.0/res/values/bools.xml#L19",
+      "revId": "493d92c15e654cc3b69ffc7b6bbcedd2ffe08525",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
