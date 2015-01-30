@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fad55976_6de7fb12",
+        "filename": "selinux/dock_kbd_attach.te",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 8964
+      },
+      "writtenOn": "2015-01-30T12:28:01Z",
+      "side": 1,
+      "message": "right?\n\n\u003c4\u003e[ 4.993865] C0 [ logd.auditd] type\u003d1400 audit(1422337956.218:7): avc: denied { read write } for pid\u003d139 comm\u003d\"dock_kbd_attach\" name\u003d\"ttyO3\" dev\u003dtmpfs ino\u003d1067 scontext\u003du:r:dock_kbd_attach:s0 tcontext\u003du:object_r:device:s0 tclass\u003dchr_file",
+      "revId": "7133203df80342924ca6ed14ac74c859553a7404",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fad55976_2ddd0343",
+        "filename": "selinux/file_contexts",
+        "patchSetId": 2
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 8964
+      },
+      "writtenOn": "2015-01-30T12:28:01Z",
+      "side": 1,
+      "message": "see comment on http://review.cyanogenmod.org/#/c/87215/2/selinux/smc_pa.te",
+      "revId": "7133203df80342924ca6ed14ac74c859553a7404",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fad55976_edd2cb33",
+        "filename": "selinux/geomagneticd.te",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 8964
+      },
+      "writtenOn": "2015-01-30T12:28:01Z",
+      "side": 1,
+      "message": "right?\n\n\n\u003c4\u003e[ 4.994171] C0 [ logd.auditd] type\u003d1400 audit(1422337956.226:8): avc: denied { write } for pid\u003d137 comm\u003d\"geomagneticd\" name\u003d\"yas.cfg\" dev\u003dmmcblk0p10 ino\u003d677696 scontext\u003du:r:geomagneticd:s0 tcontext\u003du:object_r:system_data_file:s0 tclass\u003dfile",
+      "revId": "7133203df80342924ca6ed14ac74c859553a7404",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fad55976_4d1dd70e",
+        "filename": "selinux/smc_pa.te",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 8964
+      },
+      "writtenOn": "2015-01-30T12:28:01Z",
+      "side": 1,
+      "message": "What about the dac_override?\n\n\n\n\u003c4\u003e[ 4.992889] C0 [ logd.auditd] type\u003d1400 audit(1422337956.078:3): avc: denied { dac_override } for pid\u003d117 comm\u003d\"smc_pa_ctrl\" capability\u003d1 scontext\u003du:r:smc_pa:s0 tcontext\u003du:r:smc_pa:s0 tclass\u003dcapability\n\n\n\u003c4\u003e[ 4.993408] C0 [ logd.auditd] type\u003d1400 audit(1422337956.078:4): avc: denied { read write } for pid\u003d117 comm\u003d\"smc_pa_ctrl\" name\u003d\"tf_ctrl\" dev\u003dtmpfs ino\u003d1299 scontext\u003du:r:smc_pa:s0 tcontext\u003du:object_r:device:s0 tclass\u003dchr_file\n\n\n\u003c4\u003e[ 4.993560] C0 [ logd.auditd] type\u003d1400 audit(1422337956.078:5): avc: denied { open } for pid\u003d117 comm\u003d\"smc_pa_ctrl\" name\u003d\"tf_ctrl\" dev\u003dtmpfs ino\u003d1299 scontext\u003du:r:smc_pa:s0 tcontext\u003du:object_r:device:s0 tclass\u003dchr_file\n\n\n\u003c4\u003e[ 4.993713] C0 [ logd.auditd] type\u003d1400 audit(1422337956.078:6): avc: denied { ioctl } for pid\u003d117 comm\u003d\"smc_pa_ctrl\" path\u003d\"/dev/tf_ctrl\" dev\u003dtmpfs ino\u003d1299 scontext\u003du:r:smc_pa:s0 tcontext\u003du:object_r:device:s0 tclass\u003dchr_file",
+      "revId": "7133203df80342924ca6ed14ac74c859553a7404",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
