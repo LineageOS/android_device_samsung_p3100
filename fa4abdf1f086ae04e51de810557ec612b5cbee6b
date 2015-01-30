@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fad55976_4d10374f",
+        "filename": "rootdir/init.espresso.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 417,
+      "author": {
+        "id": 8964
+      },
+      "writtenOn": "2015-01-30T09:58:11Z",
+      "side": 1,
+      "message": "DAMN i am an idiot!!! I should stop pushing things before going to sleep... lol must  be correctly:\n\n seclabel u:r:gpsd:s0\n\n\nMaybe this lines can removed completely? They are seclabled in file_contexts already...",
+      "revId": "fa4abdf1f086ae04e51de810557ec612b5cbee6b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
