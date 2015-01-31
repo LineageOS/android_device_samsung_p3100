@@ -1,0 +1,140 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fad55976_e2c81577",
+        "filename": "selinux/dock_kbd_attach.te",
+        "patchSetId": 7
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 8964
+      },
+      "writtenOn": "2015-01-31T07:26:43Z",
+      "side": 1,
+      "message": ";",
+      "revId": "a1db3997813a19a67d0e69ab99155b1216f8a880",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fad55976_42b921e9",
+        "filename": "selinux/geomagneticd.te",
+        "patchSetId": 7
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 8964
+      },
+      "writtenOn": "2015-01-31T07:26:43Z",
+      "side": 1,
+      "message": ";",
+      "revId": "a1db3997813a19a67d0e69ab99155b1216f8a880",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fad55976_a2ce1d81",
+        "filename": "selinux/geomagneticd.te",
+        "patchSetId": 7
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 8964
+      },
+      "writtenOn": "2015-01-31T07:26:43Z",
+      "side": 1,
+      "message": ";",
+      "revId": "a1db3997813a19a67d0e69ab99155b1216f8a880",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fad55976_82cb1972",
+        "filename": "selinux/geomagneticd.te",
+        "patchSetId": 7
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 8964
+      },
+      "writtenOn": "2015-01-31T07:26:43Z",
+      "side": 1,
+      "message": ";",
+      "revId": "a1db3997813a19a67d0e69ab99155b1216f8a880",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fad55976_22ba2de2",
+        "filename": "selinux/orientationd.te",
+        "patchSetId": 7
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 8964
+      },
+      "writtenOn": "2015-01-31T07:26:43Z",
+      "side": 1,
+      "message": ";",
+      "revId": "a1db3997813a19a67d0e69ab99155b1216f8a880",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fad55976_02bf29d1",
+        "filename": "selinux/orientationd.te",
+        "patchSetId": 7
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 8964
+      },
+      "writtenOn": "2015-01-31T07:26:43Z",
+      "side": 1,
+      "message": ";",
+      "revId": "a1db3997813a19a67d0e69ab99155b1216f8a880",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fad55976_c2c5115c",
+        "filename": "selinux/smc_pa.te",
+        "patchSetId": 7
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 8964
+      },
+      "writtenOn": "2015-01-31T07:26:43Z",
+      "side": 1,
+      "message": ";",
+      "revId": "a1db3997813a19a67d0e69ab99155b1216f8a880",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fad55976_22a18daa",
+        "filename": "selinux/smc_pa.te",
+        "patchSetId": 7
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 8964
+      },
+      "writtenOn": "2015-01-31T07:26:43Z",
+      "side": 1,
+      "message": ";",
+      "revId": "a1db3997813a19a67d0e69ab99155b1216f8a880",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
