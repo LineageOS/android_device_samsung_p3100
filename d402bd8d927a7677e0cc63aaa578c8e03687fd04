@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fad55976_6299c56e",
+        "filename": "selinux/geomagneticd.te",
+        "patchSetId": 8
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 8964
+      },
+      "writtenOn": "2015-01-31T08:21:02Z",
+      "side": 1,
+      "message": "device/samsung/p3100/selinux/geomagneticd.te:5:ERROR \u0027attribute data_type is not declared\u0027 at token \u0027;\u0027 on line 11214:\ntype sensor_file, data_type;\ntype geomagneticd_exec, exec_type, file_type;\ncheckpolicy:  error(s) encountered while parsing configuration",
+      "revId": "d402bd8d927a7677e0cc63aaa578c8e03687fd04",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
