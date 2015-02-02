@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bacf61ea_4bef99b0",
+        "filename": "selinux/file_contexts",
+        "patchSetId": 14
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 8964
+      },
+      "writtenOn": "2015-02-02T07:15:20Z",
+      "side": 1,
+      "message": "Does it work to include yas.cfg and yas-backup.cfg?\nBefore i haven\u0027t added the \"*\"\n\n\navc: denied { add_name } for pid\u003d124 comm\u003d\"geomagneticd\" name\u003d\"yas-backup.cfg\" scontext\u003du:r:geomagneticd:s0 tcontext\u003du:object_r:system_data_file:s0 tclass\u003ddir",
+      "revId": "fc1e831fcf701a5867fbde7e54ae96968f60d320",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
