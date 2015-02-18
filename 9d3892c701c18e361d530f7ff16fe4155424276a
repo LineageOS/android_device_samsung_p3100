@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bacf61ea_7eedd58a",
+        "filename": "selinux/gpsd.te",
+        "patchSetId": 20
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 8964
+      },
+      "writtenOn": "2015-02-18T19:52:40Z",
+      "side": 1,
+      "message": "why this get ignored?\nhttp://hastebin.com/nefefupuda.sm",
+      "revId": "9d3892c701c18e361d530f7ff16fe4155424276a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
