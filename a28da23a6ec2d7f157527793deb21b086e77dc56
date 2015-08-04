@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9f0e0f27_3a133d69",
+        "filename": "rootdir/etc/init.espresso.rc",
+        "patchSetId": 2
+      },
+      "lineNbr": 400,
+      "author": {
+        "id": 8964
+      },
+      "writtenOn": "2015-08-04T13:02:38Z",
+      "side": 1,
+      "message": "p3100 specific",
+      "revId": "a28da23a6ec2d7f157527793deb21b086e77dc56",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9f0e0f27_1a18797f",
+        "filename": "rootdir/etc/init.espresso.rc",
+        "patchSetId": 2
+      },
+      "lineNbr": 407,
+      "author": {
+        "id": 8964
+      },
+      "writtenOn": "2015-08-04T13:02:38Z",
+      "side": 1,
+      "message": "p3100 specific",
+      "revId": "a28da23a6ec2d7f157527793deb21b086e77dc56",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
